@@ -24,5 +24,19 @@ escreval("Digite o nome da sua Cidade")
 leia(cidade)
 escreval("Digite seu numero de telefone")
 leia(numero_tel)
+
+limpatela
+
+ escreval("---------------------------------------------------")
+   escreval(":::::::::::::::::::  :::::::: :::   ::: ::::::::")
+   escreval(":+:       :+:    :+::+:    :+::+:   :+::+:    :+:")
+   escreval("+:+       +:+    +:++:+        +:+ +:+ +:+         ")
+   escreval("+#++:++#  +#+    +:++#++:++#++  +#++:  +#++:++#++    ")
+   escreval("+#+       +#+    +#+       +#+   +#+          +#+      ")
+   escreval("#+#       #+#    #+##+#    #+#   #+#   #+#    #+#        ")
+   escreval("###################  ########    ###    ########           ")
+   escreval("---------------------------------------------------")
+
+
 escreval("Seu nome é ", nome, ", você tem ", idade, " anos de idade e o sexo informado foi ", sexo, " você mora na ", endereco, " na cidade de ", cidade,  " seu numero de telefone é ", numero_tel)
 Fimalgoritmo

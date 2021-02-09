@@ -25,6 +25,16 @@ Inicio
    leia(endereco_trab)
 
    limpatela
+   
+   escreval("---------------------------------------------------")
+   escreval(":::::::::::::::::::  :::::::: :::   ::: ::::::::")
+   escreval(":+:       :+:    :+::+:    :+::+:   :+::+:    :+:")
+   escreval("+:+       +:+    +:++:+        +:+ +:+ +:+         ")
+   escreval("+#++:++#  +#+    +:++#++:++#++  +#++:  +#++:++#++    ")
+   escreval("+#+       +#+    +#+       +#+   +#+          +#+      ")
+   escreval("#+#       #+#    #+##+#    #+#   #+#   #+#    #+#        ")
+   escreval("###################  ########    ###    ########           ")
+   escreval("---------------------------------------------------")
 
    escreval("O colaborador ", nome, ", de idade ", idade, " ,de endereço residencial, ", endereco, " ,e salario R$", salario, " . Está alocado na área de ", area, " no endereço ", endereco_trab)
 
