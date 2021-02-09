@@ -1,6 +1,6 @@
 # Material Lógica
 
-Anotações e dicas sobre lógica de programação.
+Anotações e dicas sobre **lógica** de **programação**.
 
 <!-- AQUI VOCE PODE COLOCAR O LOGO, UMA IMAGEM QUE REPRESENTE O PROJETO OU O QUE MAIS QUISER -->
 ![image](https://user-images.githubusercontent.com/77402911/107370953-670c6f80-6ac2-11eb-8751-1911fe197100.png)
@@ -30,7 +30,7 @@ Na computação, as sequências são escritas utilizando as linguagens de progra
 ## Uso
 
 <!-- MOSTRE UTILIZANDO UM GIF AS POSSIBILIDADES QUE TEMOS COM NOSSO PROJETO -->
-Esse material tem como intuito ajudar novos desenvolvedores a evoluir no processo de criação de códigos. Dessa forma podem criar sistemas nas mais diversas linguagens de programação
+Esse material tem como intuito ajudar **novos desenvolvedores** a evoluir no processo de criação de códigos. Dessa forma podem criar sistemas nas mais diversas linguagens de programação.
 
 ![image](https://user-images.githubusercontent.com/77402911/107372050-c15a0000-6ac3-11eb-955f-7830dce029d8.png)
 
@@ -48,6 +48,11 @@ Basicamente, aqui irei colocar todos os algoritmos e exemplos e exercícios que 
 
 - Introdução
     - ***Descrição:*** Nessa pasta vão ficar todos os arquivos de introdução a Lógica de Programação Todos os passos iniciais que damos no começo do desenvolvimento/aprendizado.
+      - ***Descrição:*** Vamos armazenar aqui todos os arquivos sobre estruturas condicionais. 
+
+- Laçõs de Repetição
+
+    - ***Descrição:*** Nessa iremos colocar todos os arquivos correspondentes aos laços/estruturas de Repetição.
 
 ## Como contribuir 
 
