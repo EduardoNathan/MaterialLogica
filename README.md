@@ -40,7 +40,7 @@ Caso queiram me contatar para adicionar algo neste readme basta me chamar em alg
 
 ## Roadmap
 
-![image](https://user-images.githubusercontent.com/6373438/104767581-2d5a7a00-574b-11eb-8b91-335cfb23d913.png)
+![image](https://user-images.githubusercontent.com/77402911/107377638-f2d5ca00-6ac9-11eb-9c07-4605188eeb55.png)
 
 Basicamente, aqui irei colocar todos os algoritmos e exemplos e exercícios que irei disponibilizar para estudo.
 
