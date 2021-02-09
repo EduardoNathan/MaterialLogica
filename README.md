@@ -54,6 +54,7 @@ Basicamente, aqui irei colocar todos os algoritmos e exemplos e exercícios que 
 
     - ***Descrição:*** Nessa iremos colocar todos os arquivos correspondentes aos laços/estruturas de Repetição.
 
+
 ## Como contribuir 
 
 Contribuições são sempre bem-vindas. Existem várias maneiras de contribuir com este projeto, como:
@@ -65,6 +66,10 @@ Contribuições são sempre bem-vindas. Existem várias maneiras de contribuir c
 - 📄 Ajudando a melhorar a documentação.
 - 🚀 Compartilhando este projeto com seus amigos.
 
+
+## LICENÇA
+
+MIT.
 ## Status do projeto
 
 O projeto se encontra na fase de inicio/andamento!
