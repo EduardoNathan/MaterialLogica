@@ -8,7 +8,7 @@ Anotações e dicas sobre lógica de programação.
  ![Version](https://img.shields.io/badge/Version-1.0.0-blue) ![Build](https://img.shields.io/badge/Build-Passing-lightgrey) ![Code_Quality](https://img.shields.io/badge/Code_Quality-Good-darkblue) ![Projeto](https://img.shields.io/badge/projeto-MaterialLogica-blue) ![Language](https://img.shields.io/badge/Language-JavaScript-lightgrey)
 
 <!-- APAGAR ESSA FOTO E POR UMA SCREENSHOT DO PROJETO -->
-![image](https://user-images.githubusercontent.com/77402911/107371139-ac30a180-6ac2-11eb-858e-a3d2362db9b1.png)
+
 <!-- APAGAR ESSA FOTO E POR UMA SCREENSHOT DO PROJETO -->
 
 # Conteúdos
@@ -24,6 +24,8 @@ Anotações e dicas sobre lógica de programação.
 Podemos definir “lógica de programação” como a elaboração de sequências de ações para atingir um determinado objetivo. O processo envolve o uso de dispositivos lógicos, como estruturas condicionais (if/else) e de repetição (for/while).
 
 Na computação, as sequências são escritas utilizando as linguagens de programação, espécies de “idiomas” compreendidos pelas máquinas.
+
+![image](https://user-images.githubusercontent.com/77402911/107378199-7db6c480-6aca-11eb-92c3-52db60759ddb.png)
 
 ## Uso
 
