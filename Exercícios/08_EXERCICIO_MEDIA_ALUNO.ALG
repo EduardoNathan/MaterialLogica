@@ -20,10 +20,14 @@ Inicio
    leia(nota1, nota2, nota3, nota4)
    media <- (nota1+nota2+nota3+nota4)/4
    escreval("A media é de: ", media)
-   se media >= 5  entao
+   se media >= 7  entao
    escreval("Aprovado")
    senao
+   se media < 5 entao
    escreval("Reprovado")
+   senao
+   escreval("Recuperação")
+   fimse
    fimse
    //escreval("A media do aluno, ", nome_aluno, ", é: ", (nota1 + nota2 + nota3 + nota4)/ 4)
    
